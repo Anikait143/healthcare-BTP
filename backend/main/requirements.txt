@@ -1,0 +1,14 @@
+pillow
+pandas
+numpy
+openai
+joblib
+scikit-learn
+xgboost
+folium
+geopy
+django-easy-pdf
+reportlab
+WeasyPrint
+jwt
+PyJWT
